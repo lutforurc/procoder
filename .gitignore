@@ -1,0 +1,9 @@
+/wp-admin
+/wp-includes
+/wp-content/plugins
+/wp-content/themes/twentytwentytwo
+/wp-content/upgrade
+/wp-content/uploads
+wp-config.php
+.env
+/nbproject/private/
